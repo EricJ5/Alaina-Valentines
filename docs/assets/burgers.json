@@ -1,0 +1,495 @@
+{
+	"frames": {
+		"burgers#2.png": {
+			"frame": {
+				"x": 0,
+				"y": 0,
+				"w": 50,
+				"h": 74
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 50,
+				"h": 74
+			},
+			"sourceSize": {
+				"w": 50,
+				"h": 74
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		"burgers#4.png": {
+			"frame": {
+				"x": 0,
+				"y": 74,
+				"w": 50,
+				"h": 74
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 50,
+				"h": 74
+			},
+			"sourceSize": {
+				"w": 50,
+				"h": 74
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		"burgers#3.png": {
+			"frame": {
+				"x": 0,
+				"y": 148,
+				"w": 52,
+				"h": 70
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 52,
+				"h": 70
+			},
+			"sourceSize": {
+				"w": 52,
+				"h": 70
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		"burgers#12.png": {
+			"frame": {
+				"x": 50,
+				"y": 0,
+				"w": 56,
+				"h": 64
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 56,
+				"h": 64
+			},
+			"sourceSize": {
+				"w": 56,
+				"h": 64
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		"burgers#13.png": {
+			"frame": {
+				"x": 50,
+				"y": 64,
+				"w": 56,
+				"h": 63
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 56,
+				"h": 63
+			},
+			"sourceSize": {
+				"w": 56,
+				"h": 63
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		"burger_bullet": {
+			"frame": {
+				"x": 50,
+				"y": 127,
+				"w": 18,
+				"h": 18
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 18,
+				"h": 18
+			},
+			"sourceSize": {
+				"w": 18,
+				"h": 18
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		"burgers#9.png": {
+			"frame": {
+				"x": 0,
+				"y": 218,
+				"w": 56,
+				"h": 62
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 56,
+				"h": 62
+			},
+			"sourceSize": {
+				"w": 56,
+				"h": 62
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		"burgers#8.png": {
+			"frame": {
+				"x": 52,
+				"y": 145,
+				"w": 56,
+				"h": 60
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 56,
+				"h": 60
+			},
+			"sourceSize": {
+				"w": 56,
+				"h": 60
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		"burgers#15.png": {
+			"frame": {
+				"x": 68,
+				"y": 127,
+				"w": 15,
+				"h": 16
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 15,
+				"h": 16
+			},
+			"sourceSize": {
+				"w": 15,
+				"h": 16
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		"burgers#14.png": {
+			"frame": {
+				"x": 83,
+				"y": 127,
+				"w": 14,
+				"h": 14
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 14,
+				"h": 14
+			},
+			"sourceSize": {
+				"w": 14,
+				"h": 14
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		"burgers#10.png": {
+			"frame": {
+				"x": 106,
+				"y": 0,
+				"w": 56,
+				"h": 58
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 56,
+				"h": 58
+			},
+			"sourceSize": {
+				"w": 56,
+				"h": 58
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		"burger_enemy": {
+			"frame": {
+				"x": 106,
+				"y": 58,
+				"w": 58,
+				"h": 41
+			},
+			"rotated": true,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 58,
+				"h": 41
+			},
+			"sourceSize": {
+				"w": 58,
+				"h": 41
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		"burgers#17.png": {
+			"frame": {
+				"x": 106,
+				"y": 116,
+				"w": 26,
+				"h": 26
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 26,
+				"h": 26
+			},
+			"sourceSize": {
+				"w": 26,
+				"h": 26
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		"burgers#11.png": {
+			"frame": {
+				"x": 0,
+				"y": 280,
+				"w": 58,
+				"h": 41
+			},
+			"rotated": true,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 58,
+				"h": 41
+			},
+			"sourceSize": {
+				"w": 58,
+				"h": 41
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		"burgers#5.png": {
+			"frame": {
+				"x": 0,
+				"y": 338,
+				"w": 58,
+				"h": 41
+			},
+			"rotated": true,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 58,
+				"h": 41
+			},
+			"sourceSize": {
+				"w": 58,
+				"h": 41
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		"burgers#7.png": {
+			"frame": {
+				"x": 0,
+				"y": 396,
+				"w": 56,
+				"h": 46
+			},
+			"rotated": true,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 56,
+				"h": 46
+			},
+			"sourceSize": {
+				"w": 56,
+				"h": 46
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		"burgers#0.png": {
+			"frame": {
+				"x": 41,
+				"y": 280,
+				"w": 56,
+				"h": 45
+			},
+			"rotated": true,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 56,
+				"h": 45
+			},
+			"sourceSize": {
+				"w": 56,
+				"h": 45
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		"burgers#19.png": {
+			"frame": {
+				"x": 41,
+				"y": 336,
+				"w": 34,
+				"h": 33
+			},
+			"rotated": true,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 34,
+				"h": 33
+			},
+			"sourceSize": {
+				"w": 34,
+				"h": 33
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		"burgers#18.png": {
+			"frame": {
+				"x": 56,
+				"y": 205,
+				"w": 32,
+				"h": 32
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 32,
+				"h": 32
+			},
+			"sourceSize": {
+				"w": 32,
+				"h": 32
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		"burgers#6.png": {
+			"frame": {
+				"x": 0,
+				"y": 338,
+				"w": 58,
+				"h": 41
+			},
+			"rotated": true,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 58,
+				"h": 41
+			},
+			"sourceSize": {
+				"w": 58,
+				"h": 41
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		}
+	},
+	"meta": {
+		"app": "http://free-tex-packer.com",
+		"version": "0.6.7",
+		"image": "burgers.png",
+		"format": "RGBA8888",
+		"size": {
+			"w": 162,
+			"h": 452
+		},
+		"scale": 1
+	}
+}
