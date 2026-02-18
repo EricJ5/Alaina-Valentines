@@ -1,0 +1,21 @@
+{
+	"name": "alaina-valentines",
+	"module": "index.ts",
+	"type": "module",
+	"private": true,
+	"devDependencies": {
+		"@types/bun": "latest",
+		"vite": "^7.3.1"
+	},
+	"peerDependencies": {
+		"typescript": "^5"
+	},
+	"dependencies": {
+		"phaser": "^3.90.0"
+	},
+	"scripts": {
+		"clean": "rm -rf build docs",
+		"build": "bunx --bun vite build --config vite/config.prod.mjs",
+		"dev": "bunx --bun vite --config vite/config.dev.mjs"
+	}
+}
